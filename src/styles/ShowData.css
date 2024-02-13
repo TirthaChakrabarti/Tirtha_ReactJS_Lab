@@ -1,0 +1,172 @@
+#page-Header {
+    width: 98.5%;
+    height: 50px;
+    margin: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(118, 118, 118);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    font-weight: bolder;
+    color: rgb(155, 254, 6);
+}
+
+#Add-Button {
+    width: 110px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    background-color: greenyellow;
+    border-color: greenyellow;
+    float: right;
+    margin-right: 30px;
+}
+
+#tracker-header {
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.header-details {
+    height: 50px;
+    font-size: 1.3em;
+    background-color: black;
+    border-radius: 5px;
+    margin-right: 5px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.date {
+    width: 180px;
+}
+
+.product {
+    width: 360px;
+}
+
+.price {
+    width: 120px;
+}
+
+.payee {
+    width: 120px;
+}
+
+#tracker-data {
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.data-details {
+    height: 50px;
+    font-size: 1.3em;
+    border-radius: 5px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.data-date {
+    width: 180px;
+    background-color: rgb(253, 190, 71);
+}
+
+.data-product {
+    width: 360px;
+    background-color: skyblue;
+}
+
+.data-price {
+    width: 120px;
+    background-color: rgb(162, 79, 240);
+}
+
+.data-payee {
+    width: 120px;
+    background-color: aqua;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3em;
+}
+
+.Ramesh {
+    background-color: steelblue;
+}
+
+hr {
+    margin: 10px;
+}
+
+#total-calculation {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+.total-calculation-rows {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+
+.text {
+    width: 360px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 10px;
+    margin-bottom: 5px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.pay {
+    width: 360px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 10px;
+    margin-bottom: 5px;
+    background-color: rgb(224, 86, 86);
+    border-radius: 5px;
+}
+
+.Data {
+    width: 150px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.sum-data {
+    background-color: lightgreen;
+}
+
+.Rahul-data {
+    background-color: aqua;
+}
+
+.Ramesh-data {
+    background-color: steelblue;
+}
+
+.pay-data {
+    background-color: rgb(224, 86, 86);
+}
